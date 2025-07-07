@@ -1263,7 +1263,7 @@ function initializeParticipantSelection() {
 async function loadParticipantData(participantId) {
     try {
         // Load reference data for the selected participant
-        const data = await d3.csv(`${participantId}.csv`);
+        const data = await d3.csv(`participant data/${participantId}.csv`); 
         if (!data || data.length === 0) {
             throw new Error('No data loaded');
         }
