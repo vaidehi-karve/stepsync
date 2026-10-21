@@ -20,4 +20,4 @@ StepSync uses 3D coordinate data collected from 14 healthy individuals to create
 Most people aren’t aware of how much their posture during walking impacts their health. StepSync makes these invisible patterns visible—and correctable. Whether you're recovering from an injury, training as an athlete, or just looking to move better, StepSync gives you the tools to take the next step in the right direction.
 
 ## Try It Out
-How do you walk? Use [StepSync](https://snigdhapodugu.github.io/stepsync/) to find out.
+How do you walk? Use [StepSync](https://snigdhapodugu.github.io/stepsync/) to find out. Watch an example [here](https://youtu.be/H5luroEubxs?is=bZ74-g7F1BsuBWhG).
